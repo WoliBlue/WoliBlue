@@ -1,6 +1,6 @@
 ## 🚀 About Me
 - 👋 I'm @WoliBlue! 
-- 🧠 I’m still learning JAVA, SQL and other languages
+- 🧠 I’m still learning JAVA, SQL and many other things!
 - 👀 I’m interested in having fun programming
 - 😄 Fav Food: Dumplings!!!!
 - 🐱 Fun fact: I love cats!!!!
